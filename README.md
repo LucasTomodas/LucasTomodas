@@ -3,13 +3,13 @@
 █▄▄ █▄█ █▄▀ ██▄   ▄▄█  █  █▄█ ██▄
 ```
 
-### 👨‍💻 Lucas Silva
+###  Lucas Silva
 
 💻 Game Developer em formação | 🛡️ Cybersecurity Enthusiast
 
 ---
 
-## `> whoami`
+## ` whoami`
 
 ```yaml
 nome:       Lucas Silva
@@ -23,7 +23,7 @@ foco_atual:
 
 ---
 
-## `> cat habilidades.txt`
+## ` habilidades.`
 
 **🧠 Linguagens em aprendizado: **
 
@@ -33,7 +33,7 @@ Python
 
 
 
-## `> stats`
+## ` stats`
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Python
 
 ---
 
-## `> ls projetos/`
+## ` ls projetos/`
 
 ```bash
 🚧 Em construção — em breve meus primeiros projetos estarão aqui!  
@@ -66,7 +66,7 @@ Python
 
 ---
 
-## `> cat sobre.txt`
+## `  sobre.txt`
 
 Sou estudante de **Ciência da Computação**, explorando o mundo da tecnologia com foco em duas áreas principais:
 
