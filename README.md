@@ -52,7 +52,7 @@ Python
 
 ---
 
-## `sobre.txt`
+## `sobre.`
 
 Sou estudante de **Ciência da Computação**, explorando o mundo da tecnologia com foco em duas áreas principais:
 
