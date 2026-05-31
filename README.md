@@ -1,11 +1,7 @@
 
-###  Lucas Silva
+ Lucas Silva
 
-💻 Game Developer em formação | 🛡️ Cybersecurity Enthusiast
-
----
-
-## ` whoami`
+Cybersecurity Enthusiast
 
 ```yaml
 nome:       Lucas Silva
