@@ -17,7 +17,6 @@ foco_atual:
   - Segurança da Informação
 ```
 
----
 
 ## ` habilidades.`
 
@@ -26,23 +25,6 @@ foco_atual:
 C++ 
 
 Python
-
-
-
-## ` stats`
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasTomodas&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTomodas&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasTomodas&theme=dark&hide_border=true&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-</p>
-
-
-
-
----
 
 ## `projetos`
 
@@ -59,10 +41,6 @@ Sou estudante de **Ciência da Computação**, explorando o mundo da tecnologia 
 * 🛡️ **Segurança da Informação**
   → Entender vulnerabilidades, explorar sistemas e aprender a protegê-los.
 
-* 🎮 **Desenvolvimento de Jogos**
-  → Criar experiências interativas, mecânicas e mundos digitais.
-
----
 
 ## `>contato`
 
