@@ -13,7 +13,7 @@ curso:      Ciência da Computação
 local:      Brasil 🇧🇷
 status:     🟢 Em evolução constante
 foco_atual:
-  - Desenvolvimento de Jogos
+
   - Segurança da Informação
 ```
 
