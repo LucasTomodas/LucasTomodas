@@ -32,10 +32,8 @@ Python
 
 ## `sobre.`
 
-Sou estudante de **Ciência da Computação**, explorando o mundo da tecnologia com foco em duas áreas principais:
+Sou estudante de **Ciência da Computação**
 
-* 🛡️ **Segurança da Informação**
-  → Entender vulnerabilidades, explorar sistemas e aprender a protegê-los.
 
 
 ## `>contato`
